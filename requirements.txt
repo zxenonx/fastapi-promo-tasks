@@ -1,4 +1,4 @@
 fastapi-cli==0.0.7
 fastapi-slim==0.115.12
-uvicorn==0.34.2
+uvicorn==0.34.3
 
